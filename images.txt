@@ -1,1 +1,1 @@
-dzhuang/tinymediamanager5-docker
+dzhuang/tinymediamanager
