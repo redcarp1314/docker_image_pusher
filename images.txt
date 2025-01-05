@@ -1,2 +1,1 @@
-tinymediamanager/tinymediamanager
-romancin/tinymediamanager
+dzhuang/tinymediamanager5-docker
