@@ -1,1 +1,1 @@
-dzhuang/tinymediamanager
+dzhuang/tinymediamanager:latest-v5
