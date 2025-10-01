@@ -1,1 +1,2 @@
 dzhuang/tinymediamanager:latest-v5
+jxxghp/moviepilot-v2:latest
