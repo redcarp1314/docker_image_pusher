@@ -1,3 +1,1 @@
-dzhuang/tinymediamanager:latest-v5
-jxxghp/moviepilot-v2:latest
-jxxghp/moviepilot-v3:latest
+gangz1o/clash4docker
