@@ -1,1 +1,1 @@
-gangz1o/clash4docker
+gangz1o/glash:latest
